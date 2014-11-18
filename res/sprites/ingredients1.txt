@@ -1,0 +1,28 @@
+cheese
+flour
+butter
+eggs
+chocolate
+milk
+salt
+tomato
+basil
+pepper
+water
+strawberry
+lemon
+steak
+starch
+bread
+oil
+hot sauce
+beef
+generic
+chicken
+spaghetti
+jar
+red pepper
+onion
+garlic
+blueberry
+sugar
